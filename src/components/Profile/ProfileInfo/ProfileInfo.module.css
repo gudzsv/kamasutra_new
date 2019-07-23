@@ -1,0 +1,14 @@
+.profileInfo{
+
+}
+.foneImg img{
+    width: 1000px;
+    height: 100px;
+  }
+  .avatarImg img{
+      width: 80px;
+      border-radius: 20px;
+  }
+  .descriptionBlock {
+      padding: 10px;
+  }

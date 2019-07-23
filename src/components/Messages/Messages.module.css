@@ -1,0 +1,13 @@
+.messages {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsName {
+    font-weight: bold;
+}
+
+
+.messagesName {
+    font-weight: bold;
+}
