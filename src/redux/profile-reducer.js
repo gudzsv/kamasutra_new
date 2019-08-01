@@ -26,10 +26,10 @@ const profileReducer = (state = initState, action) => {
             id: 4,
             message: state.newPostText,
             likeCount: 0,
-            avatar: " "
+            avatar: ''
         };
         state.postData.push(newPost);
-        state.newPostText = '';
+        state.newPostText = ''
     }
 
     let updateNewPostText = (newText) => {
