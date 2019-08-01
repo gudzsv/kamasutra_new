@@ -2,7 +2,7 @@ import React from 'react';
 import s from './Messages.module.css';
 import Message from "./Mesage/Message";
 import DialogItem from "./DialogItem/DialogItem";
-import {sendMessageCreator} from "../../redux/state";
+import {sendMessageCreator} from "../../redux/store";
 
 
 const Messages_old = (props) => {
