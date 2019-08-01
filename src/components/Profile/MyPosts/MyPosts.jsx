@@ -8,12 +8,11 @@ const MyPosts = (props) => {
     let postsElement = props.postData.map(p => <Posts message={p.message}
                                                       avatar={p.avatar}
                                                       likeCount={p.likeCount}/>)
-    let newPostElement = React.createRef();
     let onAddPost = () => {
         props.addPost();
     }
-    let onChangeText = () => {
-        let text = newPostElement.current.value;
+    let onChangeText = (e) => {
+        let text = e.target.value;
         props.updateNewPostText(text);
     }
     return (
@@ -22,7 +21,6 @@ const MyPosts = (props) => {
             <div>
                 <div>
                     <textarea onChange={onChangeText}
-                              ref={newPostElement}
                               title='inpit text here please'
                               value={props.newPostText}/>
                 </div>
