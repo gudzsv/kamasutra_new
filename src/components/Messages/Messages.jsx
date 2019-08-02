@@ -5,10 +5,12 @@ import DialogItem from "./DialogItem/DialogItem";
 
 
 const Messages = (props) => {
-    let messElement = props.messageData.map(p => <Message message={p.message}
-                                                          id={p.id}/>)
-    let usersElement = props.dialogsData.map(p => <DialogItem name={p.name}
-                                                              id={p.id}/>)
+    let messElement = props.messageData.map(m => <Message key={m.id}
+                                                          message={m.message}
+                                                          id={m.id}/>)
+    let usersElement = props.dialogsData.map(d => <DialogItem key={d.id}
+                                                              name={d.name}
+                                                              id={d.id}/>)
 
     let onAddMessage = () => {
         props.addMessage();
