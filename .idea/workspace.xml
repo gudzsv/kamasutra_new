@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55226310-6c9b-4a9f-a0e1-f35449c20318" name="Default Changelist" comment="Update all from work PC1">
+    <list default="true" id="55226310-6c9b-4a9f-a0e1-f35449c20318" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Messages/Messages.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Messages/Messages.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Messages/MessagesContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Messages/MessagesContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/message-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/message-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +119,7 @@
       <workItem from="1563879605898" duration="2373000" />
       <workItem from="1564684678787" duration="13838000" />
       <workItem from="1564755080735" duration="90000" />
-      <workItem from="1564755381720" duration="14697000" />
+      <workItem from="1564755381720" duration="15022000" />
     </task>
     <task id="LOCAL-00001" summary="Update all from work PC">
       <created>1563879756637</created>
@@ -173,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564697988320</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update all from work PC1">
+      <created>1564782812350</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564782812350</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -217,6 +214,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update all from work PC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update all from work PC" />
+    <MESSAGE value="Update all from work PC1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update all from work PC1" />
   </component>
 </project>
