@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55226310-6c9b-4a9f-a0e1-f35449c20318" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-    </list>
+    <list default="true" id="55226310-6c9b-4a9f-a0e1-f35449c20318" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +125,7 @@
       <workItem from="1564755381720" duration="15022000" />
       <workItem from="1564983330291" duration="84000" />
       <workItem from="1565069266109" duration="626000" />
-      <workItem from="1565071276474" duration="591000" />
+      <workItem from="1565071276474" duration="838000" />
     </task>
     <task id="LOCAL-00001" summary="Update all from work PC">
       <created>1563879756637</created>
@@ -185,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564983372114</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Store UPD">
+      <created>1565071915748</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1565071915748</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Store UPD1">
+      <created>1565072113790</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1565072113790</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -230,6 +242,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update all from work PC" />
     <MESSAGE value="Update all from work PC1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update all from work PC1" />
+    <MESSAGE value="Store UPD" />
+    <MESSAGE value="Store UPD1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Store UPD1" />
   </component>
 </project>
