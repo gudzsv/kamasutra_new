@@ -128,7 +128,7 @@
       <workItem from="1564983330291" duration="84000" />
       <workItem from="1565069266109" duration="626000" />
       <workItem from="1565071276474" duration="939000" />
-      <workItem from="1565120013890" duration="2804000" />
+      <workItem from="1565120013890" duration="3208000" />
     </task>
     <task id="LOCAL-00001" summary="Update all from work PC">
       <created>1563879756637</created>
@@ -214,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565122818279</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Store UPD21">
+      <created>1565122884407</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1565122884407</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +260,7 @@
     <MESSAGE value="Store UPD" />
     <MESSAGE value="Store UPD1" />
     <MESSAGE value="Store UPD2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Store UPD2" />
+    <MESSAGE value="Store UPD21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Store UPD21" />
   </component>
 </project>

@@ -1,11 +1,11 @@
 /*
-    My Store 06
+    My StoreforHome
  */
 
 import profileReducer from "./profile-reducer";
 import messageReducer from "./message-reducer";
 import sidebarReducer from "./sidebar-reducer";
-let test = 'TEST-p2.2';
+
 let store = {
     _state: {
         profilePage: {
