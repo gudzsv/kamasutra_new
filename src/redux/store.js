@@ -5,13 +5,12 @@
 import profileReducer from "./profile-reducer";
 import messageReducer from "./message-reducer";
 import sidebarReducer from "./sidebar-reducer";
-import React from 'react'
-let test = '';
+let test = 'TEST-p2.2';
 let store = {
     _state: {
         profilePage: {
             postData: [
-                {
+
                     id: 1,
                     message: 'This socisl network is a bullshit',
                     likeCount: 55,
