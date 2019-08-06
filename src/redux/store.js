@@ -6,7 +6,7 @@ import profileReducer from "./profile-reducer";
 import messageReducer from "./message-reducer";
 import sidebarReducer from "./sidebar-reducer";
 import React from 'react'
-
+let test = '';
 let store = {
     _state: {
         profilePage: {
