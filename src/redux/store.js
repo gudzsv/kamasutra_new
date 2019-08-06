@@ -1,10 +1,11 @@
 /*
-    My Store
+    My Store 06
  */
 
 import profileReducer from "./profile-reducer";
 import messageReducer from "./message-reducer";
 import sidebarReducer from "./sidebar-reducer";
+import React from 'react'
 
 let store = {
     _state: {
