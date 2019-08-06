@@ -120,6 +120,8 @@
       <workItem from="1564684678787" duration="13838000" />
       <workItem from="1564755080735" duration="90000" />
       <workItem from="1564755381720" duration="15022000" />
+      <workItem from="1564983330291" duration="84000" />
+      <workItem from="1565069266109" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="Update all from work PC">
       <created>1563879756637</created>
@@ -170,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564782812350</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update all from work PC1">
+      <created>1564983372114</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564983372114</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
