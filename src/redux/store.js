@@ -10,6 +10,7 @@ let store = {
     _state: {
         profilePage: {
             postData: [
+                {
 
                     id: 1,
                     message: 'This socisl network is a bullshit',

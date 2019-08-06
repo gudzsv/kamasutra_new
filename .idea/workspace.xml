@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55226310-6c9b-4a9f-a0e1-f35449c20318" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -129,7 +128,7 @@
       <workItem from="1564983330291" duration="84000" />
       <workItem from="1565069266109" duration="626000" />
       <workItem from="1565071276474" duration="939000" />
-      <workItem from="1565120013890" duration="2496000" />
+      <workItem from="1565120013890" duration="2804000" />
     </task>
     <task id="LOCAL-00001" summary="Update all from work PC">
       <created>1563879756637</created>
@@ -208,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565072168456</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Store UPD2">
+      <created>1565122818279</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1565122818279</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +252,7 @@
     <MESSAGE value="Update all from work PC1" />
     <MESSAGE value="Store UPD" />
     <MESSAGE value="Store UPD1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Store UPD1" />
+    <MESSAGE value="Store UPD2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Store UPD2" />
   </component>
 </project>
